@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm a BSCS student passionate about technology and problem-solving.<br><br>I have a strong interest in Python programming, Machine Learning, and Artificial Intelligence. Currently, I am learning and building projects related to data analysis and intelligent systems.<br><br>I enjoy exploring new technologies, improving my coding skills, and working on real-world problems.<br><br>I am a skilled AI/ML engineer and contribute to innovative solutions in the tech industry.<br>
+Hi, I'm passionate about technology and problem-solving.<br><br>I have a strong interest in Python programming, Machine Learning, and Artificial Intelligence. Currently, I am learning and building projects related to data analysis and intelligent systems.<br><br>I enjoy exploring new technologies, improving my coding skills, and working on real-world problems.<br><br>I am a skilled AI/ML engineer and contribute to innovative solutions in the tech industry.<br>
 
 
 ## 🌐 Socials:
