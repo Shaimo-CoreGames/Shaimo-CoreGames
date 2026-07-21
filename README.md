@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hi, I'm passionate about technology and problem-solving.<br><br>I have a strong interest in Python programming, Machine Learning, and Artificial Intelligence. Currently, I am learning and building projects related to data analysis and intelligent systems.<br><br>I enjoy exploring new technologies, improving my coding skills, and working on real-world problems.<br><br>I am a skilled AI/ML engineer and contribute to innovative solutions in the tech industry.<br>
+I am a **Software & Engineer** passionate about building intelligent systems and scalable software solutions. 
+
+### ⚡ What I Bring to the Table
+* **Backend Architecture:** Asynchronous microservices, optimized database designs, and high-throughput APIs.
+* **Performance Optimization:** Crafting efficient algorithms and low-level system designs.
+
+Always open to collaboration on open-source projects, machine learning workflows, and innovative software solutions.
 
 
 ## 🌐 Socials:
