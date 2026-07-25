@@ -65,6 +65,4 @@ Always open to collaboration on open-source projects, machine learning workflows
 ![](https://streak-stats.demolab.com/?user=Shaimo-CoreGames&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shaimo-CoreGames&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shaimo-CoreGames&theme=transparent&no-frame=true&no-bg=true&margin-w=4)
 
