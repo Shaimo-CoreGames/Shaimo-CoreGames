@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: 
 I am a **Software & Engineer** passionate about building intelligent systems and scalable software solutions. 
 
 ### ⚡ What I Bring to the Table
